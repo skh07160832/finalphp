@@ -6,8 +6,7 @@ import android.os.Bundle;
 public class SplashActivity extends AppCompatActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        
+    protected void onCreate(Bundle savedInstanceState) {        
         
         
         
