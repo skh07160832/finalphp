@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class SplashActivity extends AppCompatActivity {
 
-    @Override//我是你大爷！！
+    @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
